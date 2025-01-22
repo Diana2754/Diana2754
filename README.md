@@ -4,7 +4,7 @@
 💻 Desarrolladora apasionada por la lógica y la resolución de problemas.
 
 
-👨‍🎓 Actualmente soy estudiante de la carrera de Sistemas Informáticos en la Universidad Tecnológica Nacional (UTN). En constante aprendizaje, desarrollando nuevas habilidades para crecer en el ámbito de la programación y la ingeniería informática. 🚀
+👨‍🎓 Estudiante de la carrera de Sistemas Informáticos en la Universidad Tecnológica Nacional (UTN). En constante aprendizaje, desarrollando nuevas habilidades para crecer en el ámbito de la programación y la ingeniería informática. 🚀
 
 
 
