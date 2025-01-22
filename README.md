@@ -43,8 +43,5 @@
 - ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white) [Diana Alali](https://www.linkedin.com/in/diana-alali-4973a7200/)
 
 
-## 🐱 Gatito programador
-
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExanRmZ3J4ZWM4bWNrM291MHo5M2E5ZDltcGE5bGN2Y3kxdm5lbjBqNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lzz3B3xLZluuY/giphy.gif" alt="Gatito Programando" />
 
 
