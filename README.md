@@ -36,12 +36,5 @@
 ![Trello](https://img.shields.io/badge/-Trello-0052CC?style=flat-square&logo=trello&logoColor=white)
 
 
-## 📫 Contáctame
-
-- ![Correo](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white) [dianacc.alali@gmail.com](mailto:dianacc.alali@gmail.com)
-
-- ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white) [Diana Alali](https://www.linkedin.com/in/diana-alali-4973a7200/)
-
-
 
 
