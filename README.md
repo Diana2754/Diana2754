@@ -1,11 +1,16 @@
 # 👋 ¡Hola! Soy Diana Alali
 
+
+
 💻 Desarrolladora apasionada por la lógica y la resolución de problemas.
+
 
 👨‍🎓 Actualmente soy estudiante de la carrera de Sistemas Informáticos en la Universidad Tecnológica Nacional (UTN). En constante aprendizaje, desarrollando nuevas habilidades para crecer en el ámbito de la programación y la ingeniería informática. 🚀
 
 
-## 🔧 Tecnologías Front-end
+
+
+## 🔧 Front-end
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -13,12 +18,16 @@
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 
 
-## 🔧 Tecnologías Back-end
+
+
+## 🔧 Back-end
 ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+
 
 
 ## 🔧 Otras herramientas
@@ -28,8 +37,11 @@
 ![Trello](https://img.shields.io/badge/-Trello-0052CC?style=flat-square&logo=trello&logoColor=white)
 
 
-## 📈 Mis estadísticas
-![Diana2754](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=radical)
+## 📫 Contáctame
+
+- ![Correo](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white) [dianacc.alali@gmail.com](mailto:dianacc.alali@gmail.com)
+
+- ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white) [[linkedin.com/in/tuperfil](https://www.linkedin.com/in/diana-alali-4973a7200/)]
 
 
-![Un gatito programando](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExejh2dmxkOTRubWh2dWt2eXVybWVyeHhpdnUzdWhkbzlkMGE0ampkdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif))
+![Un gatito programando]([(https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExanRmZ3J4ZWM4bWNrM291MHo5M2E5ZDltcGE5bGN2Y3kxdm5lbjBqNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lzz3B3xLZluuY/giphy.gif)])
