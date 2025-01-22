@@ -1,5 +1,4 @@
-# 👋 ¡Hola! Soy Diana Alali
-
+# 👋 ¡Hola! Soy Diana 
 
 
 💻 Desarrolladora apasionada por la lógica y la resolución de problemas.
@@ -41,7 +40,9 @@
 
 - ![Correo](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white) [dianacc.alali@gmail.com](mailto:dianacc.alali@gmail.com)
 
-- ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white) [[linkedin.com/in/tuperfil](https://www.linkedin.com/in/diana-alali-4973a7200/)]
+- ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white) [Diana Alali](https://www.linkedin.com/in/diana-alali-4973a7200/)
 
 
-![Un gatito programando]([(https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExanRmZ3J4ZWM4bWNrM291MHo5M2E5ZDltcGE5bGN2Y3kxdm5lbjBqNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lzz3B3xLZluuY/giphy.gif)])
+## 🐱 Gatito programador
+
+![Gatito Programador](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExanRmZ3J4ZWM4bWNrM291MHo5M2E5ZDltcGE5bGN2Y3kxdm5lbjBqNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lzz3B3xLZluuY/giphy.gif)
